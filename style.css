@@ -1,0 +1,83 @@
+.caja-1{
+ 
+   border: 2px solid red; 
+  position:absolute;
+  padding:10px; /* espacio entre texto y caja*/
+  margin:0px; /* espacio entre cajas*/
+  display:inline-block; /*las cajas se muestran en linea*/
+  width:1495px; /*ancho*/
+  height:538px; /*alto*/ 
+}
+
+.caja-2{
+  
+   border: 2px solid red; 
+  position:absolute;
+  padding:10px; /* espacio entre texto y caja*/
+  margin:0px; /* espacio entre cajas*/
+  display:inline-block; /*las cajas se muestran en linea*/
+  width:1495px; /*ancho*/
+  height:15px; /*alto*/ 
+
+}
+
+.caja-3{
+  
+   border: 2px solid red; 
+  position:absolute;
+  padding:10px; /* espacio entre texto y caja*/
+  margin:0px; /* espacio entre cajas*/
+  display:inline-block; /*las cajas se muestran en linea*/
+  width:100px; /*ancho*/
+  height:15px; /*alto*/ 
+  
+}
+.caja-4{
+  
+   border: 2px solid red; 
+  position:absolute;
+  padding:10px; /* espacio entre texto y caja*/
+  margin:0px; /* espacio entre cajas*/
+  display:inline-block; /*las cajas se muestran en linea*/
+  width:100px; /*ancho*/
+  height:15px; /*alto*/ 
+  left:1402px;
+}
+.caja-5{
+  
+   border: 2px solid red; 
+  position:absolute;
+  padding:10px; /* espacio entre texto y caja*/
+  margin:0px; /* espacio entre cajas*/
+  display:inline-block; /*las cajas se muestran en linea*/
+  width:100px; /*ancho*/
+  height:15px; /*alto*/ 
+  left:1280px;
+}
+
+.caja-6{
+  
+   border: 2px solid red; 
+  position:absolute;
+  padding:10px; /* espacio entre texto y caja*/
+  margin:0px; /* espacio entre cajas*/
+  display:inline-block; /*las cajas se muestran en linea*/
+  width:100px; /*ancho*/
+  height:15px; /*alto*/ 
+  left:1158px;
+}
+
+
+
+.caja-7{
+  
+   border: 2px solid red; 
+  position:absolute;
+  padding:10px; /* espacio entre texto y caja*/
+  margin:0px; /* espacio entre cajas*/
+  display:inline-block; /*las cajas se muestran en linea*/
+  width:100px; /*ancho*/
+  height:15px; /*alto*/ 
+  left:1037px;
+ 
+}
